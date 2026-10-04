@@ -1,5 +1,13 @@
 # CLIProxyAPI for Unraid
 
+> **Moved to [ntindle/unraid-apps](https://github.com/ntindle/unraid-apps).** The template is
+> now [`templates/cliproxyapi.xml`](https://github.com/ntindle/unraid-apps/blob/main/templates/cliproxyapi.xml)
+> there and this document is
+> [`cliproxyapi/README.md`](https://github.com/ntindle/unraid-apps/blob/main/cliproxyapi/README.md); its
+> history moved with it. This repository is archived. Its files stay so that the template and
+> icon URLs of existing installs keep working, but they are no longer updated. Open issues at
+> <https://github.com/ntindle/unraid-apps/issues>.
+
 An unofficial Unraid template for the
 [ntindle fork](https://github.com/ntindle/CLIProxyAPI) of
 [CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI).
